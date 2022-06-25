@@ -5,7 +5,7 @@ def main():
     --> Find the details of an element using the element name -- Enter 'element name'
     --> Find the details of an element using its atomic number -- Enter 'atomic number'
     --> Find the details of an element using its symbol -- Enter 'symbol'
-    --> To exit -- Enter 'exit'.
+    --> To exit -- Enter 'exit'.checking
     Enjoy!! ••""")
     while True:
         wt = input("-->  ")
